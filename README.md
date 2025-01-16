@@ -37,6 +37,10 @@
 
     This will start the API server, typically accessible at `http://localhost:8000`.
 
+### Fetch API data
+
+*   **`php artisan get:menus`** run this command to fetch the data from the yhangry API endpoint and populate the database.
+
 ### API Endpoints
 
 *   **`GET /api/set-menus`**: Fetches set menus data.
