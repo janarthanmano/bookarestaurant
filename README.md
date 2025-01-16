@@ -39,7 +39,9 @@
 
 ### Fetch API data
 
-*   **`php artisan get:menus`** run this command to fetch the data from the yhangry API endpoint and populate the database.
+    php artisan get:menus
+
+Run this command to fetch the data from the yhangry API endpoint and populate the database.
 
 ### API Endpoints
 
